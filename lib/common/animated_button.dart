@@ -38,7 +38,7 @@ class AnimatedBtn extends StatelessWidget {
                 children: [
                   Icon(Icons.arrow_right),
                   Text(
-                    'Start the course',
+                    'Enter',
                     style: TextStyle(fontWeight: FontWeight.w600),
                   ),
                 ],
